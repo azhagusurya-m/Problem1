@@ -37,7 +37,7 @@ Note
 2.MinimumUniqueArraySum is a class which implements the uniqueArray interface.
 3.MiminimumUniqueArraySumExecutor is a class which act as an executor,  helps to test the input.
 
-#Problem2
+# Problem2
 Super Stack 
 
 To Run the program 
@@ -134,7 +134,7 @@ SuperStackExecutor.java - executor to test the actions.
 
 
 
-#Problem 3
+# Problem 3
 CountingPairs
 
 To Run the program 
